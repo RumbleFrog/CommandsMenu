@@ -35,7 +35,7 @@ public Action CmdGetCommands(int client, int args)
 {
 	if (Commands == null)
 	{
-		MoreColors_CPrintToChat(client, "Command list not found");
+		PrintToChat(client, "Command list not found");
 	}
 	
 	Commands.Display(client, MENU_TIME_FOREVER);
