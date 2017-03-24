@@ -19,6 +19,14 @@ DisplayName;Info
 
 **Info** is what will show up in chat if pressed
 
+Fields are separated by semi-colon
+
+## Example
+
+```
+!command;Displays current menu
+```
+
 # Download 
 
 Download the latest version from the [release](https://github.com/RumbleFrog/CommandsMenu/releases) page
