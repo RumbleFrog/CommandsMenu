@@ -16,6 +16,7 @@ DisplayName;Info
 ```
 
 **DisplayName** is what will show up in the menu
+
 **Info** is what will show up in chat if pressed
 
 # Download 
