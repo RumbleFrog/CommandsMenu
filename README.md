@@ -1,5 +1,5 @@
 # CommandsMenu [![Build Status](https://travis-ci.org/RumbleFrog/CommandsMenu.svg?branch=master)](https://travis-ci.org/RumbleFrog/CommandsMenu)
-Return to console a JSON encoded array of SteamID64 and name pairs
+Display a menu of commands parsed a simple config file
 
 # Usage
 sm_commands (!commands | /commands)
