@@ -21,7 +21,7 @@ DisplayName;Info
 
 Fields are separated by semi-colon
 
-## Example
+### Example
 
 ```
 !command;Displays current menu
