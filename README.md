@@ -21,7 +21,7 @@ DisplayName;Info
 
 # Download 
 
-Download the latest version from the [release](https://github.com/RumbleFrog/FetchPData/releases) page
+Download the latest version from the [release](https://github.com/RumbleFrog/CommandsMenu/releases) page
 
 # License
 MIT
