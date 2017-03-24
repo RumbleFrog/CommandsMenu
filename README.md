@@ -17,7 +17,7 @@ DisplayName;Info
 
 **DisplayName** is what will show up in the menu
 
-**Info** is what will show up in chat if pressed
+**Info** is what will show up in chat if pressed or the content of the submenu
 
 Fields are separated by semi-colon
 
