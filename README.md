@@ -21,7 +21,7 @@ DisplayName;Info
 
 Fields are separated by semi-colon
 
-One command per line
+One entry per line
 
 ### Example
 
