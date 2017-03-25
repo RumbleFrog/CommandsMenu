@@ -34,4 +34,5 @@ One entry per line
 Download the latest version from the [release](https://github.com/RumbleFrog/CommandsMenu/releases) page
 
 # License
+
 MIT
