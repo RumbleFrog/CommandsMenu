@@ -19,7 +19,7 @@ DisplayName;Info
 
 **Info** is what will show up in chat if pressed or the content of the submenu
 
-Fields are separated by semi-colon
+The fields are separated by semi-colon
 
 One entry per line
 
