@@ -2,7 +2,7 @@
 Display a menu of commands parsed a simple config file
 
 # Usage
-sm_commands (!commands | /commands)
+sm_commands
 
 # Installation
 
